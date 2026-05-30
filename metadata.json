@@ -1,0 +1,6 @@
+{
+  "name": "우리 땅 독도 - 역사 기록 연표",
+  "description": "고대 신라 이사부의 우산국 복속부터 근대 대한제국 시기까지, 우리 영토 독도의 주권과 역사적 기록을 정밀하게 보여주는 인터랙티브 연표 아카이브입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
